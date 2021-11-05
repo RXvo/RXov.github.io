@@ -1,6 +1,15 @@
 /* 自定义字体 */
 @font-face {
-    font-family: 'sleek';
-    src: url('https://cdn.jsdelivr.net/gh/RXvo/ttf@1.0/OPPOSans-R.ttf');
+    font-family:'sleek';
+    src:url('https://cdn.jsdelivr.net/gh/RXvo/ttf/OPPOSans-R.ttf'); /* 修改成你的字体 */
+    font-display:swap
 }
-
+h1#site-title {
+    font-family:arzhu!important
+}
+span#subtitle {
+    font-family:arzhu!important
+}
+a#site-name {
+    font-family:arzhu!important
+}
