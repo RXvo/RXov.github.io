@@ -187,7 +187,7 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><font color=#0c74d6 size=3 face="黑体">**这是歌单介绍，如果不需要刻意留空**</font>    <div id="aplayer-WnOrUSnz" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2227373273" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><div class="note purple icon modern"><i class="note-icon fas fa-fan"></i><p>~IU歌单~</p></div>    <div id="aplayer-PNIDrrjF" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2227373273" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
       
     </entry>
     
