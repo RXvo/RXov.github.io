@@ -172,17 +172,6 @@
     
     
     <entry>
-      <title>微语</title>
-      <link href="/talk/index.html"/>
-      <url>/talk/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
@@ -221,6 +210,17 @@
       <url>/gallery/gallery3/index.html</url>
       
         <content type="html"><![CDATA[<div class="justified-gallery"><p><img src="https://www.hualigs.cn/image/60a0e62c77916.jpg" alt=""></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>微语</title>
+      <link href="/artitalk/index.html"/>
+      <url>/artitalk/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
