@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Go&#39;s Learning</title>
+      <link href="/post/go.html"/>
+      <url>/post/go.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h1 id="安装配置相关"><a href="#安装配置相关" class="headerlink" title="安装配置相关"></a>安装配置相关</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Go语言 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Golang </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Learning to Group and Label Fine-Grained Shape Components</title>
       <link href="/post/post1.html"/>
       <url>/post/post1.html</url>
